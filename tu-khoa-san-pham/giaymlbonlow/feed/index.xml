@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>giaymlbonlow &#8211; Tuan Store</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/giaymlbonlow/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tuanpeo.github.io/tuanstore</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 17 Oct 2021 05:43:36 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Giày MLB NY onlow</title>
+		<link>https://tuanpeo.github.io/tuanstore/sản%20phẩm/giay-mlb-ny-onlow/</link>
+					<comments>https://tuanpeo.github.io/tuanstore/sản%20phẩm/giay-mlb-ny-onlow/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenvantuan]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 03:27:36 +0000</pubDate>
+				<guid isPermaLink="false">https://tuanpeo.github.io/tuanstore/?post_type=product&#038;p=194</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Hoàn tiền 100% nếu nhận sản phẩm không giống hình</li>
+ 	<li>️ FreeShip đổi trả toàn quốc.</li>
+ 	<li>️ 100% ảnh, video thật được chúng tôi quay và chụp bằng điện</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Đổi ngay hàng mới nếu nhận hàng bị lỗi, hỏng từ phía nhà sản xuất. Hỗ trợ đổi size nếu các bạn đi không vừa.</li>
+<li>&#xfe0f; FreeShip đổi trả toàn quốc.</li>
+<li>&#xfe0f; Kiểu dáng hot trend của năm nay và còn kéo dài trong những năm tiếp theo. Đế giày được thiết kế chịu ma sát tốt, tăng chiều cao, nhẹ, êm, cân bằng và thoáng khí</li>
+<li>&#xfe0f; Giày đẹp, nhẹ, bền. Giá phải chăng phù hợp với các bạn học sinh, sinh viên. Có thể làm giày đôi, giày nhóm. Thích hợp đi chơi, du lịch, chạy bộ, gym, đi học, đi làm&#8230;</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tuanpeo.github.io/tuanstore/sản%20phẩm/giay-mlb-ny-onlow/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

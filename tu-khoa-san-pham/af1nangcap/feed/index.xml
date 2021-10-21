@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>af1nangcap &#8211; Tuan Store</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/af1nangcap/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tuanpeo.github.io/tuanstore</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 17 Oct 2021 05:43:36 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>AF1 Camouflage Gray</title>
+		<link>https://tuanpeo.github.io/tuanstore/sản%20phẩm/af1-camouflage-gray/</link>
+					<comments>https://tuanpeo.github.io/tuanstore/sản%20phẩm/af1-camouflage-gray/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenvantuan]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 18:16:45 +0000</pubDate>
+				<guid isPermaLink="false">https://tuanpeo.github.io/tuanstore/?post_type=product&#038;p=157</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Là mẫu giày đẹp HOT TREND 2021, thiết kế CỰC ĐẸP</li>
+ 	<li>THU HÚT mọi ánh nhìn, vừa khoẻ khoắn,vừa thời trang</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Là mẫu giày đẹp HOT TREND 2020, thiết kế CỰC ĐẸP, giúp các nàng THU HÚT mọi ánh nhìn, đế cao tôn dáng thêm đẹp, gót hình hoa cúc đẹp tạo điểm nhấn cho giày <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f496.png" alt="💖" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>Nếu bạn muốn THU HÚT mọi ánh nhìn, vừa khoẻ khoắn, thời trang, mà vẫn được tôn dáng chiều cao thì không nên bỏ qua em này nhé.</li>
+<li>ưu điểm : da mềm, nhẹ, mang ôm chân, dáng đẹp</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tuanpeo.github.io/tuanstore/sản%20phẩm/af1-camouflage-gray/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

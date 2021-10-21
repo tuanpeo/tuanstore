@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>giay &#8211; Tuan Store</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/giay/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tuanpeo.github.io/tuanstore</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 17 Oct 2021 05:43:36 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Giày MLB boston</title>
+		<link>https://tuanpeo.github.io/tuanstore/sản%20phẩm/giay-mlb-boston/</link>
+					<comments>https://tuanpeo.github.io/tuanstore/sản%20phẩm/giay-mlb-boston/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenvantuan]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 04:45:36 +0000</pubDate>
+				<guid isPermaLink="false">https://tuanpeo.github.io/tuanstore/?post_type=product&#038;p=235</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Hàng bên mình là hàng sẵn full size</li>
+ 	<li>Nhận hàng các bạn được kiểm tra hàng trước khi thanh toán</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Ảnh này bên mình tự chụp các bạn có thể vào sản phẩm để xem thêm các ảnh chi tiết .</li>
+<li>Hàng bên mình là hàng sẵn full size , các bạn có thể cập nhật ở bên trên mình có up đó</li>
+<li>Shop mình nhập hàng tận xưởng nên giá cực kì rẻ so với các shop khác , mà chất lượng lại ổn định hơn.</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tuanpeo.github.io/tuanstore/sản%20phẩm/giay-mlb-boston/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

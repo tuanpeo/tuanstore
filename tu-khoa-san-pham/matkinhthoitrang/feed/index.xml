@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>matkinhthoitrang &#8211; Tuan Store</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/matkinhthoitrang/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tuanpeo.github.io/tuanstore</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 17 Oct 2021 05:43:30 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Mắt Kính</title>
+		<link>https://tuanpeo.github.io/tuanstore/sản%20phẩm/mat-kinh/</link>
+					<comments>https://tuanpeo.github.io/tuanstore/sản%20phẩm/mat-kinh/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenvantuan]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 17:05:23 +0000</pubDate>
+				<guid isPermaLink="false">https://tuanpeo.github.io/tuanstore/?post_type=product&#038;p=143</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Loại kính: kính mát</li>
+ 	<li>Đặc tính quang học : chống ánh sáng xanh dương</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Loại kính: kính mát</li>
+<li>Đặc tính quang học của tròng kính: chống ánh sáng xanh dương</li>
+<li>Lưu ý: Vui lòng cho phép sai số kích thước 1-3mm do sản phẩm được đo đạc bằng phương pháp thủ công!</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tuanpeo.github.io/tuanstore/sản%20phẩm/mat-kinh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

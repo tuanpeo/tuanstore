@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>aophongtron &#8211; Tuan Store</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/aophongtron/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tuanpeo.github.io/tuanstore</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 02:47:23 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Áo phông trơn</title>
+		<link>https://tuanpeo.github.io/tuanstore/sản%20phẩm/ao-phong-tron/</link>
+					<comments>https://tuanpeo.github.io/tuanstore/sản%20phẩm/ao-phong-tron/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenvantuan]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 02:40:58 +0000</pubDate>
+				<guid isPermaLink="false">https://tuanpeo.github.io/tuanstore/?post_type=product&#038;p=167</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Áo thun basic Nam Nữ  đen trắng - Áo phông trơn Ngắn tay</li>
+ 	<li>Loại : Áo Thun/ Áo Phông</li>
+ 	<li>Chất Liệu : Cotton 35/65.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Áo thun basic Nam Nữ cổ tròn đen trắng &#8211; Áo phông trơn Ngắn tay không cổ unisex vải dày co giãn thời trang.</li>
+<li>Thông tin sản phẩm</li>
+<li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Loại : Áo Thun/ Áo Phông</li>
+<li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Kiểu Dáng : Phù hợp Nam và Nữ</li>
+<li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Chất Liệu : Cotton 35/65.</li>
+<li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Thích Hợp : Mùa Xuân &#8211; Mùa Hè</li>
+<li><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Thời Trang : Đi Chơi, Hẹn Hò, Du Lịch, Đi Làm</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tuanpeo.github.io/tuanstore/sản%20phẩm/ao-phong-tron/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
